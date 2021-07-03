@@ -18,4 +18,5 @@ public class CurrencyExchangeServiceApplication {
 		SpringApplication.run(CurrencyExchangeServiceApplication.class, args);
 	}
 
+	//this is to test
 }
